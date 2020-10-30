@@ -8,7 +8,7 @@ Author URL: http://www.oslomet.no
 body{
     /*background-image: url("images/pink cloud.jpg");*/
     background-color: #d1d8e0;
-    font-size: 90%;
+    font-size: 100%;
     font-family: Arial, "Lucida Sans Unicode";
     line-height: 1.5;
     text-align: left;
@@ -20,14 +20,14 @@ a:link, a:visited{color:#202441;}
 a:hover, a:active{color:darkred;}
 .body{
     margin: 10px auto;
-    width: 80%;
+    width: 100%;
     clear: both;
 }
 .mainheader img {
     width: 100%;
 }
 .mainheader nav{
-    background-color: cadetblue;
+    background-color: maroon;
     height: 40px;
     border-radius: 5px;
     -moz-border-radius: 5px;
@@ -57,7 +57,7 @@ a:hover, a:active{color:darkred;}
 }
 /*------------------------MAIN CONTENT------------------*/
 .mainContent{
-    width: 70%;
+    width: 100%;
     float: left;
 }
 .top-content{
@@ -88,26 +88,13 @@ a:hover, a:active{color:darkred;}
     font-style: italic;
     font-family: Arial;
 }
-/*--------------sidebar----------------------------*/
-.thesidebar{
-    width: 24%;
-    margin: 2% 0 0 2%;
-    float: left;
-    padding: 2%;
-    background-color: white;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    text-align: center;
-    align-items: center;
-    align-content: center;
-}
+
 /*-------------------------footer-----------------------*/
 .footer{
     margin-top: 20px;
     float: left;
     width: 100%;
-    background-color: cadetblue;
+    background-color: brown;
     height: 60px;
     border-radius: 5px;
     -moz-border-radius: 5px;
@@ -120,17 +107,10 @@ a:hover, a:active{color:darkred;}
 }
 /*_____________________HTML5__________________*/
 .post-image {
-    width: 100%;
+    width: 80%;
     height: 400px;
 }
-.post-image1 {
-    width: 50%;
-    height: 400px;
-}
-.post-image2 {
-    width: 50%;
-    height: 300px;
-}
+
 h2{
     font-size: 55px;
     font-family: Castellar;
