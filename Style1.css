@@ -109,8 +109,16 @@ a:hover, a:active{color:darkred;}
 .post-image {
     width: 80%;
     height: 400px;
-}
 
+}
+.post-image1 {
+    width: 50%;
+    height: 400px;
+}
+.post-image2 {
+    width: 50%;
+    height: 300px;
+}
 h2{
     font-size: 55px;
     font-family: Castellar;
